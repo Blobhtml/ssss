@@ -27,7 +27,7 @@ Tab:AddSlider({
 Tab:AddButton({
 	Name = "Donate!",
 	Callback = function()
-      		plr:kick("banned Reason: FE Donation Script")
+      	    game.Players.LocalPlayer:Kick("USER BANNED LOLLLLLL                                                                                                            THIS IS FAKE")
   	end    
 })
 
